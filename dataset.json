@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Memphis Metro Area, TN-MS-AR, US",
+  "export_job_id": "29411349-eb35-49ce-82e7-1e29df07e079",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 717846,
+  "location_name": "Memphis, TN-MS-AR",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-memphis-metro-area-tn-ms-ar-us-sample-717846",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/717846/beamstation_717846_restaurants-us-memphistnmsar_SAMPLE_DIST.csv",
+  "sample_pct": 14.29,
+  "sample_records": 1,
+  "sample_sha256": "e39b6b74c67a7114da2015c132b90aab28563b4fd02bec9dd6ead06f13afd476",
+  "sample_size_bytes": 19977,
+  "total_records": 7,
+  "updated_at": "2026-04-08T04:00:57.220658+00:00"
+}
