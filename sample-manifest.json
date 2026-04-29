@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e3ca4a6e-f105-41de-8fb2-030096bb71b1",
+  "export_job_id": "9499ed33-8e41-4e31-b276-da98105c10e2",
   "id_short": 717846,
-  "published_at": "2026-04-23T07:05:23Z",
+  "published_at": "2026-04-29T19:31:46Z",
   "repo_name": "tech-ready-restaurants-in-the-memphis-metro-area-tn-ms-ar-us-sample-717846",
   "sample_asset_name": "beamstation_717846_restaurants-us-memphistnmsar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/717846/beamstation_717846_restaurants-us-memphistnmsar_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "5f0db13be407a1cc533f82a7e3c9900fb4d3989d5daffc9bf225aeabecf5ae69",
-  "sample_size_bytes": 19980,
-  "total_records": 2
+  "sample_records": 4,
+  "sample_sha256": "5aeb21e2a17c84e84c93bcdb6f81842739593aa479f1bdf1bda88dd5c38221d4",
+  "sample_size_bytes": 33150,
+  "total_records": 40
 }
